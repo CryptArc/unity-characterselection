@@ -1,4 +1,3 @@
-# unity-characterselection
-[Unity3D Full Free Asset] Character Selection Screen
-
+# [Unity3D] Character Selection Screen
+A character selection like crossy road for Unity3D
 ![Demo GIF](csdemo.gif)
